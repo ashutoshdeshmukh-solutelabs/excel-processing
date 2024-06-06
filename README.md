@@ -12,7 +12,7 @@ This repository contains a Node.js script that reads an Excel file using the `ex
 1. **Clone the repository:**
 
    ```sh
-   git clone [https://github.com/yourusername/excel-reader.git](https://github.com/ashutoshdeshmukh-solutelabs/excel-processing.git)
+   git clone https://github.com/ashutoshdeshmukh-solutelabs/excel-processing.git 
    cd excel-processing
 
 2. **Instal the Dependencies:**
