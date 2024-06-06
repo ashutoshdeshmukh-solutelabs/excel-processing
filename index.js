@@ -24,7 +24,7 @@ async function readExcelFile(filePath) {
     return rows;
 }
 
-const filePath = 'MOCK_DATA.xlsx';
+const filePath = 'your-excel-file.xlsx';
 
 readExcelFile(filePath).then(rows => {
     console.log(rows);
